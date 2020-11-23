@@ -1,7 +1,7 @@
 var rs = require("readline-sync");
 var chalk= require('chalk');
 
-console.log('-------------------------------------------------------');
+console.log('------------------------------------------------------------');
 //output
 console.log(chalk.black.bold.bgGreenBright("Hey! I am  Harsh and you are welcome to my quiz game! This game will ask u questions related to me . "));
 console.log('----------------------------------------------------\n');
